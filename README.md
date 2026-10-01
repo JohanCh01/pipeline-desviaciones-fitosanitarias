@@ -37,7 +37,7 @@ flowchart LR
 ## Resultado
 
 <!-- Completa con tus números reales -->
-- El proceso pasó de **[1 hora] manual** a **[5 minutos]** por día.
+- El proceso pasó de **1 hora manual** a **5 minutos** por día.
 - Se eliminaron errores de cruce por nombres y campos escritos distinto entre sistemas.
 
 ## Cómo ejecutarlo
