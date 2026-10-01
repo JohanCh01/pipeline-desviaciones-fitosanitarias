@@ -1,0 +1,22 @@
+{
+  "fecha": "15/09/2026",
+  "clase_campo": "TERCEROS",
+  "vigencia": {
+    "inicio": "",
+    "fin": ""
+  },
+  "indicadores": {
+    "LARVA":    { "activo": true, "umbral": 0.10 },
+    "POSTURAS": { "activo": true, "umbral": 0.02, "banda": { "hasta": 0.033, "categoria": 2 } },
+    "PICADOS":  { "activo": true, "umbral": 0.10 }
+  },
+  "correcciones_proveedor": {
+    "AGRICOLA LOS ALAMOS": "AGRÍCOLA LOS ÁLAMOS SAC"
+  },
+  "rutas": {
+    "monitoreo": "datos/monitoreo_ejemplo.xlsx",
+    "recepcion": "datos/recepcion_ejemplo.xlsx",
+    "maestro_categorizacion": "datos/maestro_categorizacion_ejemplo.csv",
+    "salida": "salida/reporte_desviaciones.xlsx"
+  }
+}

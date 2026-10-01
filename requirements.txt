@@ -1,0 +1,7 @@
+pandas>=2.0
+openpyxl>=3.1
+# Solo si usas la descarga desde Google Drive (--drive):
+google-api-python-client>=2.100
+google-auth>=2.20
+# Pruebas
+pytest>=8.0
